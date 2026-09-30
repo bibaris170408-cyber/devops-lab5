@@ -1,4 +1,2 @@
 def hello():
-  return "hello, DevOps!"
-
-print(hello())
+  return "hello, World!"
